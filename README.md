@@ -1,4 +1,4 @@
-# Simple Node
+# Simple Node [![Build Status](https://travis-ci.org/hungdzai/simple-node.svg?branch=master)](https://travis-ci.org/hungdzai/simple-node)
 ## Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
